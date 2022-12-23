@@ -1,0 +1,240 @@
+[
+    {
+        "_id": "639eb160672c86bf0ca6b2b2",
+        "name": "Discrete Mathematics - Sets",
+        "catagory_id": "01",
+        "img": "https://images.saymedia-content.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cq_auto:eco%2Cw_1200/MTkyOTU2NTYzNzYwMTYyNTEy/set-theory-in-discrete-mathematics.png",
+        "descriptions": "A set is an unordered collection of different elements. A set can be written explicitly by listing its elements using set bracket. If the order of the elements is changed or any element of a set is repeated, it does not make any changes in the set."
+    },
+    {
+        "_id": "639eb1608c1ea3eacb80d643",
+        "name": "Discrete Mathematics - Relations",
+        "catagory_id": "01",
+        "img": "https://i.ytimg.com/vi/U3wEJbqQziE/maxresdefault.jpg",
+        "descriptions": "A binary relation R from set x to y (written as xRy or R(x,y)) is a subset of the Cartesian product x×y. If the ordered pair of G is reversed, the relation also changes.Generally an n-ary relation R between sets A1,…, and An is a subset of the n-ary product A1×⋯×An. The minimum cardinality of a relation R is Zero and maximum is n2 in this case.A binary relation R on a single set A is a subset of A×A.For two distinct sets, A and B, having cardinalities m and n respectively, the maximum cardinality of a relation R from A to B is mn."
+    },
+    {
+        "_id": "639eb1606766dddc425455fb",
+        "name": "Discrete Mathematics - Functions",
+        "catagory_id": "01",
+        "img": "https://cdn1.byjus.com/wp-content/uploads/2020/11/Onto-Function.png",
+        "descriptions": "A function or mapping (Defined as f:X→Y) is a relationship from elements of one set X to elements of another set Y (X and Y are non-empty sets). X is called Domain and Y is called Codomain of function ‘f’.Function ‘f’ is a relation on X and Y such that for each x∈X, there exists a unique y∈Y such that (x,y)∈R. ‘x’ is called pre-image and ‘y’ is called image of function f.A function can be one to one or many to one but not one to many."
+    },
+    {
+        "_id": "639eb1601ec349bb140492a5",
+        "name": "Propositional Logic",
+        "catagory_id": "01",
+        "img": "https://i.ytimg.com/vi/Ib5njCwNMdk/maxresdefault.jpg",
+        "descriptions": "A proposition is a collection of declarative statements that has either a truth value true or a truth value false. A propositional consists of propositional variables and connectives. We denote the propositional variables by capital letters (A, B, etc). The connectives connect the propositional variables."
+    },
+    {
+        "_id": "639eb16032d013e5a18dce5f",
+        "name": "Predicate Logic",
+        "catagory_id": "01",
+        "img": "https://slideplayer.com/3/782027/big_thumb.jpg",
+        "descriptions": "A predicate is an expression of one or more variables defined on some specific domain. A predicate with variables can be made a proposition by either assigning a value to the variable or by quantifying the variable."
+    },
+    {
+        "_id": "639eb160d532e7844346e14e",
+        "name": "Rules of Inference",
+        "catagory_id": "01",
+        "img": "https://img.youtube.com/vi/z205Y7D40Lk/0.jpg",
+        "descriptions": "Mathematical logic is often used for logical proofs. Proofs are valid arguments that determine the truth values of mathematical statements.An argument is a sequence of statements. The last statement is the conclusion and all its preceding statements are called premises (or hypothesis). The symbol “∴”, (read therefore) is placed before the conclusion. A valid argument is one where the conclusion follows from the truth values of the premises.Rules of Inference provide the templates or guidelines for constructing valid arguments from the statements that we already have."
+    },
+    {
+        "_id": "62dd1e277d19f94be331226d",
+        "name": "Linear Data Structure",
+        "catagory_id": "02",
+        "img": "https://techvidvan.com/tutorials/wp-content/uploads/sites/2/2020/03/linear-data-strucutre-in-java.jpg",
+        "descriptions": "A linear data structure is a structure in which the elements are stored sequentially, and the elements are connected to the previous and the next element. As the elements are stored sequentially, so they can be traversed or accessed in a single run. The implementation of linear data structures is easier as the elements are sequentially organized in memory. The data elements in an array are traversed one after another and can access only one element at a time.The types of linear data structures are Array, Queue, Stack, Linked List."
+    },
+    {
+        "_id": "ea61b21bce6a009895dae1db",
+        "name": "Non-linear Data structure",
+        "catagory_id": "02",
+        "img": "https://eneus.github.io/images/manual/algorithm.png",
+        "descriptions": "A data structure is a special way of organizing the data elements into a particular form. The arrangement of data in a particular order is very important to access the particular data element in less time easily without putting much effort.For example, in our daily life, when we used to put our clothes in a particular drawer properly, especially in a sequence so that whenever we want to wear a particular dress, we may not require to suffer in finding it out, and save our time from wasting.Similarly in this way, the computer system organizes the data in a particular specific manner, so that to access any particular data element, or to delete it or any other operation we require to perform on it, can be done easily without making many efforts and also it will be done in less time.We can even further do the arrangements of the data elements entered into the data structure like sorting the elements in ascending or descending order."
+    },
+    {
+        "_id": "4bf2fac3551c3d2b71f9b6a4",
+        "name": "Static Data structure",
+        "catagory_id": "02",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Static_data_structure%28removal_of_element%29.jpg",
+        "descriptions": "A static data structure is an organization or collection of data in memory which have a fixed size, that is, it can store a limited amount of elements or data in it. The maximum amount of data to be stored in the static data structure must be known before the declaration of the data structure and its size is fixed in memory that is we cannot reallocate extra memory for it later, although The content of the data structure can be modified.An array is a container object or a collection that stores a fixed amount of data of a similar type at contiguous memory locations. By similar type, we mean that the elements in an array must be of the same data type in Java, that is they are homogeneous in nature. The length of an array is determined at the time of its declaration, and that length is allocated in the memory, which is fixed and can not be resized later. We cannot reallocate extra memory for the array once it is initialized with a fixed size. Hence, we can say an array is a static data structure."
+    },
+    {
+        "_id": "8810fdc523047fb76bcc02da",
+        "name": "Dynamic Data structure",
+        "catagory_id": "02",
+        "img": "http://www.csc.liv.ac.uk/~ped/teachadmin/COMP102/Figures/ll.gif",
+        "descriptions": "Dynamic Data Structure is that kind of data structure that changes its size during runtime. The values store in the data structure can be changed easily either it be static or dynamic data structure. But the dynamic data are designed in such a way that both the data and the size of the data structure can be easily changed at the runtime.The main use case for which the Dynamic Data Structures are defined is to easily facilitate the change in the size of the data structure at the runtime without hindering the other operations that are associated with that data structure before increasing or decreasing the size of the data structure.In comparison to the static data structures where we can only alter the data present in the data structure at runtime, in the dynamic data structures, both the data present in the data structure and the size of the data structure can be easily changed accordingly. In static data structures, we need to pre-define or calculate the size of the data structure. Because the size of the data structure is already fixed so we can store only a particular amount of data in the static data structures. This problem is solved by the dynamic data structure where we can easily store any amount that will get generated at the run time as in the dynamic data structure, i.e., we can easily increase the size of the data structure at the runtime of the program execution."
+    },
+    {
+        "_id": "413c115c05114d92b6d1bf56",
+        "name": "Tree Data structure",
+        "catagory_id": "02",
+        "img": "https://media.geeksforgeeks.org/wp-content/uploads/20221129094006/Treedatastructure.png",
+        "descriptions": "A tree is a popular data structure that is non-linear in nature.Unlike other data structures like an array, stack, queue, and linked list which are linear in nature, a tree represents a hierarchical structure. The ordering information of a tree is not important. A tree contains nodes and 2 pointers. These two pointers are the left child and the right child of the parent node. Let us understand the terms of tree in detail.Root: The root of a tree is the topmost node of the tree that has no parent node. There is only one root node in every tree.Parent Node:  The node which is a predecessor of a node is called the parent node of that node.Child Node: The node which is the immediate successor of a node is called the child node of that node."
+    },
+    {
+        "_id": "9d2d08ae664d2c2bc83ffbce",
+        "name": "Graph Data structure",
+        "catagory_id": "02",
+        "img": "https://camo.githubusercontent.com/286d18c60007cf5e60e4672a1c601175377395e369c4facd82c55484de86458f/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323536302f312a64746d7375544d715276597a6b5543533235744c44412e6a706567",
+        "descriptions": "A graph is a data structure that consists of the following two components: 1. A finite set of vertices also called as nodes. 2. A finite set of ordered pair of the form (u, v) called as edge. The pair is ordered because (u, v) is not the same as (v, u) in case of a directed graph(di-graph). The pair of the form (u, v) indicates that there is an edge from vertex u to vertex v. The edges may contain weight/value/cost.Graphs are used to represent many real-life applications: Graphs are used to represent networks. The networks may include paths in a city or telephone network or circuit network. Graphs are also used in social networks like linkedIn, Facebook. For example, in Facebook, each person is represented with a vertex(or node). Each node is a structure and contains information like person id, name, gender, and locale. See this for more applications of graph. "
+    },
+    {
+        "_id": "5b9eb061beb512ad988202a2",
+        "name": "Centralized Database",
+        "catagory_id": "03",
+        "img": "https://i.headtopics.com/images/2021/1/7/leadershipnga/needed-a-centralised-database-1347004592970612738.webp",
+        "descriptions": "Centralized database management system is the system in which all the data is stored and managed in a single unit. This is also known as central computer database system. This system is mostly used in an organization, in any Business Company or in institution to centralize the tasks. Data can be accessed through a network Local Area Network (LAN) or Wide Area Network (WAN).  Mainframe computer is the example of centralized database management system."
+    },
+    {
+        "_id": "833237894d34fc008306081f",
+        "name": "Distributed Database",
+        "catagory_id": "03",
+        "img": "https://i.stack.imgur.com/50s4x.png",
+        "descriptions": "A distributed database represents multiple interconnected databases spread out across several sites connected by a network. Since the databases are all connected, they appear as a single database to the users.Distributed databases utilize multiple nodes. They scale horizontally and develop a distributed system. More nodes in the system provide more computing power, offer greater availability, and resolve the single point of failure issue.Different parts of the distributed database are stored in several physical locations, and the processing requirements are distributed among processors on multiple database nodes.A centralized distributed database management system (DDBMS) manages the distributed data as if it were stored in one physical location. DDBMS synchronizes all data operations among databases and ensures that the updates in one database automatically reflect on databases in other sites."
+    },
+    {
+        "_id": "5c4140c71c715ff6a61dbe6e",
+        "name": "NoSQL database",
+        "catagory_id": "03",
+        "img": "https://www.gcreddy.com/wp-content/uploads/2021/06/NoSQL-Databases.png",
+        "descriptions": "When people use the term “NoSQL database,” they typically use it to refer to any non-relational database. Some say the term “NoSQL” stands for “non SQL” while others say it stands for “not only SQL.” Either way, most agree that NoSQL databases are databases that store data in a format other than relational tables.In the early 1970, Flat File Systems are used. Data were stored in flat files and the biggest problems with flat files are each company implement their own flat files and there are no standards. It is very difficult to store data in the files, retrieve data from files because there is no standard way to store data.Then the relational database was created by E.F. Codd and these databases answered the question of having no standard way to store data. But later relational database also get a problem that it could not handle big data, due to this problem there was a need of database which can handle every types of problems then NoSQL database was developed."
+    },
+    {
+        "_id": "d0c643a79d6df34bbc630277",
+        "name": "Cloud Database",
+        "catagory_id": "03",
+        "img": "https://miro.medium.com/max/1200/1*TFiU8cCFFpGOM2Id6Raa3A.jpeg",
+        "descriptions": "A cloud database is a database that is deployed, delivered, and accessed in the cloud. Cloud databases organize and store structured, unstructured, and semi-structured data just like traditional on-premises databases. However, they also provide many of the same benefits of cloud computing, including speed, scalability, agility, and reduced costs.A cloud database is a database built to run in a public or hybrid cloud environment to help organize, store, and manage data within an organization. Cloud databases can be offered as a managed database-as-a-service (DBaaS) or deployed on a cloud-based virtual machine (VM) and self-managed by an in-house IT team.  "
+    },
+    {
+        "_id": "522b3f8d26023929374e7ddc",
+        "name": "Relational database",
+        "catagory_id": "03",
+        "img": "https://cdn.comparitech.com/wp-content/uploads/2019/05/Relational-Database-Management-Systems-Guide.jpg",
+        "descriptions": "A relational database is a collection of information that organizes data in predefined relationships where data is stored in one or more tables (or relations) of columns and rows, making it easy to see and understand how different data structures relate to each other. Relationships are a logical connection between different tables, established on the basis of interaction among these tables.A relational database (RDB) is a way of structuring information in tables, rows, and columns. An RDB has the ability to establish links—or relationships–between information by joining tables, which makes it easy to understand and gain insights about the relationship between various data points. "
+    },
+    {
+        "_id": "b4f09256ab5f7b7b52148c48",
+        "name": "Network Database",
+        "catagory_id": "03",
+        "img": "https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/9/2/929d36a1bcc195baeb4770faa2344baa51fb6b66fc50a27b3cafb63522047819/network-database-model-mc-slide3.png",
+        "descriptions": "A network database is a type of database model wherein multiple member records or files can be linked to multiple owner files and vice versa. The model can be viewed as an upside-down tree where each member information is the branch linked to the owner, which is the bottom of the tree. Essentially, relationships are in a net-like form where a single element can point to multiple data elements and can itself be pointed to by multiple data elements.The network database model allows each record to have multiple parent and multiple child records, which, when visualized, form a web-like structure of networked records. In contrast, a hierarchical model data member can only have a single parent record but can have many child records.This property of having multiple links applies in two ways: the schema and the database itself can be seen as a generalized graph of record types that are connected by relationship types. The main advantage of a network database is that it allows for a more natural modeling of relationships between records or entities, as opposed to the hierarchical model. However, the relational database model has started to win over both the network and the hierarchical models because its added flexibility and productivity has become more evident as hardware technology has become faster."
+    },
+    {
+        "_id": "440c24062f115e8e8abf1a7e",
+        "name": "Brute Force Algorithm",
+        "catagory_id": "04",
+        "img": "https://cdn-media-2.freecodecamp.org/w1280/5f9c9e20740569d1a4ca3b74.jpg",
+        "descriptions": "Brute Force Algorithms are exactly what they sound like – straightforward methods of solving a problem that rely on sheer computing power and trying every possibility rather than advanced techniques to improve efficiency.     For example, imagine you have a small padlock with 4 digits, each from 0-9. You forgot your combination, but you don't want to buy another padlock. Since you can't remember any of the digits, you have to use a brute force method to open the lock.So you set all the numbers back to 0 and try them one by one: 0001, 0002, 0003, and so on until it opens. In the worst case scenario, it would take 104, or 10,000 tries to find your combination.A classic example in computer science is the traveling salesman problem (TSP). Suppose a salesman needs to visit 10 cities across the country. How does one determine the order in which those cities should be visited such that the total distance traveled is minimized?The brute force solution is simply to calculate the total distance for every possible route and then select the shortest one. This is not particularly efficient because it is possible to eliminate many possible routes through clever algorithms.The time complexity of brute force is O(mn), which is sometimes written as O(n*m) . So, if we were to search for a string of n characters in a string of m characters using brute force, it would take us n * m tries."
+    },
+    {
+        "_id": "b0b4806e70b91c9f80aa5bbf",
+        "name": "Recursive Algorithm",
+        "catagory_id": "04",
+        "img": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Call_Stack_Fibonacci_Series.png",
+        "descriptions": "A recursive algorithm calls itself with smaller input values and returns the result for the current input by carrying out basic operations on the returned value for the smaller input. Generally, if a problem can be solved by applying solutions to smaller versions of the same problem, and the smaller versions shrink to readily solvable instances, then the problem can be solved using a recursive algorithm.To build a recursive algorithm, you will break the given problem statement into two parts. The first one is the base case, and the second one is the recursive step.   Base Case: It is nothing more than the simplest instance of a problem, consisting of a condition that terminates the recursive function. This base case evaluates the result when a given condition is met. Recursive Step: It computes the result by making recursive calls to the same function, but with the inputs decreased in size or complexity."
+    },
+    {
+        "_id": "401451fee3af244d0ba04638",
+        "name": "Backtracking Algorithm",
+        "catagory_id": "04",
+        "img": "https://favtutor.com/resources/images/uploads/backtracking_algorithm_in_cpp.png",
+        "descriptions": "Backtracking is an algorithmic technique for solving problems recursively by trying to build a solution incrementally, one piece at a time, removing those solutions that fail to satisfy the constraints of the problem at any point of time (by time, here, is referred to the time elapsed till reaching any level of the search tree)."
+    },
+    {
+        "_id": "4a58fb6e08e7489d6d8662b2",
+        "name": "Searching Algorithms",
+        "catagory_id": "04",
+        "img": "https://favtutor.com/resources/images/uploads/searching_algorithms1.png",
+        "descriptions": "Searching Algorithms are designed to check for an element or retrieve an element from any data structure where it is stored. Based on the type of search operation, these algorithms are generally classified into two categories:Sequential Search: In this, the list or array is traversed sequentially and every element is checked. Interval Search: These algorithms are specifically designed for searching in sorted data-structures. These type of searching algorithms are much more efficient than Linear Search as they repeatedly target the center of the search structure and divide the search space in half."
+    },
+    {
+        "_id": "8dd852314a4d6b7b13c839ca",
+        "name": "Sorting Algorithm",
+        "catagory_id": "04",
+        "img": "https://external-preview.redd.it/GW5bDSpDE8quf877XIpXYMq4qsEHJudKbcLv0tgDLr0.png?format=pjpg&auto=webp&s=eafe6ce4dd44dcdf3ba5dd7b85adcbdc937816e8",
+        "descriptions": "In this article, you will learn what sorting algorithm is and different sorting algorithms.The efficiency of any sorting algorithm is determined by the time complexity and space complexity of the algorithm. 1. Time Complexity: Time complexity refers to the time taken by an algorithm to complete its execution with respect to the size of the input.2. Space Complexity: Space complexity refers to the total amount of memory used by the algorithm for a complete execution. It includes both the auxiliary memory and the input.The auxiliary memory is the additional space occupied by the algorithm apart from the input data. Usually, auxiliary memory is considered for calculating the space complexity of an algorithm."
+    },
+    {
+        "_id": "dc0e18c9dc261385d0e95624",
+        "name": "Hashing Algorithms",
+        "catagory_id": "04",
+        "img": "https://networksimulationtools.com/wp-content/uploads/2020/12/Hashing-Algorithm-Projects.png",
+        "descriptions": "Hashing algorithms are functions that generate a fixed-length result (the hash, or hash value) from a given input. The hash value is a summary of the original data.For instance, think of a paper document that you keep crumpling to a point where you aren’t even able to read its content anymore. It’s almost (in theory) impossible to restore the original input without knowing what the starting data was.A hashing algorithm is a cryptographic hash function. It is a mathematical algorithm that maps data of arbitrary size to a hash of a fixed size.A hash function algorithm is designed to be a one-way function, infeasible to invert. However, in recent years several hashing algorithms have been compromised. This happened to MD5, for example — a widely known hash function designed to be a cryptographic hash function, which is now so easy to reverse — that we could only use for verifying data against unintentional corruption."
+    },
+    {
+        "_id": "eea54dca44b0e93df73f3f2e",
+        "name": "Java",
+        "catagory_id": "05",
+        "img": "https://contentstatic.techgig.com/photo/93000110/what-makes-java-still-popular-among-developers.jpg?28608",
+        "descriptions": "Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language.Java was developed by Sun Microsystems (which is now the subsidiary of Oracle) in the year 1995. James Gosling is known as the father of Java. Before Java, its name was Oak. Since Oak was already a registered company, so James Gosling and his team changed the name from Oak to Java.Platform: Any hardware or software environment in which a program runs, is known as a platform. Since Java has a runtime environment (JRE) and API, it is called a platform.   There are mainly 4 types of applications that can be created using Java programming:(1) Standalone Application:Standalone applications are also known as desktop applications or window-based applications. These are traditional software that we need to install on every machine. Examples of standalone application are Media player, antivirus, etc. AWT and Swing are used in Java for creating standalone applications.(2) Web Application:An application that runs on the server side and creates a dynamic page is called a web application. Currently, Servlet, JSP, Struts, Spring, Hibernate, JSF, etc. technologies are used for creating web applications in Java.(3) Enterprise Application:An application that is distributed in nature, such as banking applications, etc. is called an enterprise application. It has advantages like high-level security, load balancing, and clustering. In Java, EJB is used for creating enterprise applications.(4) Mobile Application:An application which is created for mobile devices is called a mobile application. Currently, Android and Java ME are used for creating mobile applications."
+    },
+    {
+        "_id": "e13ee52230dbe1ff08cb4056",
+        "name": "Python",
+        "catagory_id": "05",
+        "img": "https://miro.medium.com/max/1080/1*164LutTArmSgOo8xg7wGvA.png",
+        "descriptions": "Python is a very popular general-purpose interpreted, interactive, object-oriented, and high-level programming language. Python is dynamically-typed and garbage-collected programming language. It was created by Guido van Rossum during 1985- 1990. Like Perl, Python source code is also available under the GNU General Public License (GPL).This tutorial gives a complete understanding of Python programming language starting from basic conceopts to advanced concepts. This tutorial will take you through simple and practical approaches while learning Python Programming language.   Python is consistently rated as one of the world's most popular programming languages. Python is fairly easy to learn, so if you are starting to learn any programming language then Python could be your great choice. Today various Schools, Colleges and Universities are teaching Python as their primary programming language. There are many other good reasons which makes Python as the top choice of any programmer:   Python is Open Source which means its available free of cost. Python is simple and so easy to learn Python is versatile and can be used to create many different things. Python has powerful development libraries include AI, ML etc.Python is much in demand and ensures high salary Python is a MUST for students and working professionals to become a great Software Engineer specially when they are working in Web Development Domain. I will list down some of the key advantages of learning Python: Python is Interpreted − Python is processed at runtime by the interpreter. You do not need to compile your program before executing it. This is similar to PERL and PHP.Python is Interactive − You can actually sit at a Python prompt and interact with the interpreter directly to write your programs.Python is Object-Oriented − Python supports Object-Oriented style or technique of programming that encapsulates code within objects.Python is a Beginner's Language − Python is a great language for the beginner-level programmers and supports the development of a wide range of applications from simple text processing to WWW browsers to games."
+    },
+    {
+        "_id": "b0b905bbc5a01ddc76f57c49",
+        "name": "C++",
+        "catagory_id": "05",
+        "img": "https://www.educative.io/v2api/editorpage/5393602882568192/image/6038586442907648 ",
+        "descriptions": "C++ is a general purpose, case-sensitive, free-form programming language that supports object-oriented, procedural and generic programming.  Object-Oriented Programming (OOPs):  C++ supports the object-oriented programming, the four major pillar of object-oriented programming (OOPs) used in C++ are: 1.Inheritance.2.Polymorphism.3.Encapsulation.4.Abstraction"
+    },
+    {
+        "_id": "e40db7066480e935cde913a7",
+        "name": "C#",
+        "catagory_id": "05",
+        "img": "https://media.geeksforgeeks.org/wp-content/uploads/20200422171614/CSharp-Tutorial.png",
+        "descriptions": "C# tutorial provides basic and advanced concepts of C#. Our C# tutorial is designed for beginners and professionals.    C# is a programming language of .Net Framework.Our C# tutorial includes all topics of C# such as first example, control statements, objects and classes, inheritance, constructor, destructor, this, static, sealed, polymorphism, abstraction, abstract class, interface, namespace, encapsulation, properties, indexer, arrays, strings, regex, exception handling, multithreading, File IO, Collections etc.  What is C#?  C# is pronounced as C-Sharp. It is an object-oriented programming language provided by Microsoft that runs on .Net Framework."
+    },
+    {
+        "_id": "4fd4b48977cd2c947bf4694a",
+        "name": "JavaScript",
+        "catagory_id": "05",
+        "img": "https://blog.desafiolatam.com/wp-content/uploads/2020/11/JS.png",
+        "descriptions": "JavaScript (JS) is a lightweight, interpreted, or just-in-time compiled programming language with first-class functions. While it is most well-known as the scripting language for Web pages, many non-browser environments also use it, such as Node.js, Apache CouchDB and Adobe Acrobat. JavaScript is a prototype-based, multi-paradigm, single-threaded, dynamic language, supporting object-oriented, imperative, and declarative (e.g. functional programming) styles.    JavaScript's dynamic capabilities include runtime object construction, variable parameter lists, function variables, dynamic script creation (via eval), object introspection (via for...in and Object utilities), and source-code recovery (JavaScript functions store their source text and can be retrieved through toString()).  This section is dedicated to the JavaScript language itself, and not the parts that are specific to Web pages or other host environments. For information about APIs that are specific to Web pages, please see Web APIs and DOM. The standards for JavaScript are the ECMAScript Language Specification (ECMA-262) and the ECMAScript Internationalization API specification (ECMA-402). As soon as one browser implements a feature, we try to document it. This means that cases where some proposals for new ECMAScript features have already been implemented in browsers, documentation and examples in MDN articles may use some of those new features. Most of the time, this happens between the stages 3 and 4, and is usually before the spec is officially published. Do not confuse JavaScript with the Java programming language — JavaScript is not 'Interpreted Java'. Both 'Java' and 'JavaScript' are trademarks or registered trademarks of Oracle in the U.S. and other countries. However, the two programming languages have very different syntax, semantics, and use."
+    },
+    {
+        "_id": "1a1c849f74cb005a4b687e0d",
+        "name": "HTML",
+        "catagory_id": "05",
+        "img": "https://www.oxfordwebstudio.com/user/pages/06.da-li-znate/sta-je-html/sta-je-html.jpg",
+        "descriptions": "HTML is a markup language that defines the structure of your content. HTML consists of a series of elements, which you use to enclose, or wrap, different parts of the content to make it appear a certain way, or act a certain way. The enclosing tags can make a word or image hyperlink to somewhere else, can italicize words, can make the font bigger or smaller, and so on.  The main parts of our element are as follows:(1) The opening tag: This consists of the name of the element (in this case, p), wrapped in opening and closing angle brackets. This states where the element begins or starts to take effect — in this case where the paragraph begins.(2)The closing tag: This is the same as the opening tag, except that it includes a forward slash before the element name. This states where the element ends — in this case where the paragraph ends. Failing to add a closing tag is one of the standard beginner errors and can lead to strange results.(3)The content: This is the content of the element, which in this case, is just text.(4)The element: The opening tag, the closing tag, and the content together comprise the element."
+    },
+    {
+        "_id": "d8f554fb8a768a75ce1cb182",
+        "name": "Automata theory",
+        "catagory_id": "06",
+        "img": "https://i.ytimg.com/vi/YrEnAg2gQoU/maxresdefault.jpg",
+        "descriptions": "Automata theory is the study of abstract machines and automata, as well as the computational problems that can be solved using them. It is a theory in theoretical computer science. The word automata comes from the Greek word αὐτόματος, which means 'self-acting, self-willed, self-moving'. An automaton (automata in plural) is an abstract self-propelled computing device which follows a predetermined sequence of operations automatically. An automaton with a finite number of states is called a Finite Automaton (FA) or Finite-State Machine (FSM). The figure on the right illustrates a finite-state machine, which is a well-known type of automaton. This automaton consists of states (represented in the figure by circles) and transitions (represented by arrows). As the automaton sees a symbol of input, it makes a transition (or jump) to another state, according to its transition function, which takes the previous state and current input symbol as its arguments. Automata theory is closely related to formal language theory. In this context, automata are used as finite representations of formal languages that may be infinite. Automata are often classified by the class of formal languages they can recognize, as in the Chomsky hierarchy, which describes a nesting relationship between major classes of automata. Automata play a major role in the theory of computation,"
+    },
+    {
+        "_id": "9d611998dff2c716dc74fdff",
+        "name": "Formal language",
+        "catagory_id": "06",
+        "img": "https://miro.medium.com/max/850/1*IVPcrKhkrx5OvBKz7C0M1Q.png",
+        "descriptions": "In logic, mathematics, computer science, and linguistics, a formal language consists of words whose letters are taken from an alphabet and are well-formed according to a specific set of rules.The alphabet of a formal language consists of symbols, letters, or tokens that concatenate into strings of the language.[1] Each string concatenated from symbols of this alphabet is called a word, and the words that belong to a particular formal language are sometimes called well-formed words or well-formed formulas. A formal language is often defined by means of a formal grammar such as a regular grammar or context-free grammar, which consists of its formation rules.In computer science, formal languages are used among others as the basis for defining the grammar of programming languages and formalized versions of subsets of natural languages in which the words of the language represent concepts that are associated with particular meanings or semantics. In computational complexity theory, decision problems are typically defined as formal languages, and complexity classes are defined as the sets of the formal languages that can be parsed by machines with limited computational power. In logic and the foundations of mathematics, formal languages are used to represent the syntax of axiomatic systems, and mathematical formalism is the philosophy that all of mathematics can be reduced to the syntactic manipulation of formal languages in this way. History:  In the 17th Century, Gottfried Leibniz imagined and described the characteristica universalis, a universal and formal language which utilised pictographs. During this period, Carl Friedrich Gauss also investigated the problem of Gauss codes.[2] Gottlob Frege attempted to realize Leibniz’s ideas, through a notational system first outlined in Begriffsschrift (1879) and more fully developed in his 2-volume Grundgesetze der Arithmetik (1893/1903).[3] This described a 'formal language of pure language.'[4]In the first half of the 20th Century, several developments were made with relevance to formal languages. Axel Thue published four papers relating to words and language between 1906 and 1914. The last of these introduced what Emil Post later termed ‘Thue Systems’, and gave an early example of an undecidable problem.[5] Post would later use this paper as the basis for a 1947 proof “that the word problem for semigroups was recursively insoluble”,[6] and later devised the canonical system for the creation of formal languages.Noam Chomsky devised an abstract representation of formal and natural languages, known as the Chomsky hierarchy.[7] In 1959 John Backus developed the Backus-Naur form to describe the syntax of a high level programming language, following his work in the creation of FORTRAN.[8] Peter Naur invented a similar scheme in 1960."
+    },
+    {
+        "_id": "a080f1e5453e790df9fec4a7",
+        "name": "Computability theory",
+        "catagory_id": "06",
+        "img": "https://i.ytimg.com/vi/SUtq4JXBbxM/maxresdefault.jpg",
+        "descriptions": "Computability theory, also known as recursion theory, is a branch of mathematical logic, computer science, and the theory of computation that originated in the 1930s with the study of computable functions and Turing degrees. The field has since expanded to include the study of generalized computability and definability. In these areas, computability theory overlaps with proof theory and effective descriptive set theory.   Basic questions addressed by computability theory include:   What does it mean for a function on the natural numbers to be computable?   How can noncomputable functions be classified into a hierarchy based on their level of noncomputability?  Although there is considerable overlap in terms of knowledge and methods, mathematical computability theorists study the theory of relative computability, reducibility notions, and degree structures; those in the computer science field focus on the theory of subrecursive hierarchies, formal methods, and formal languages."
+    },
+    {
+        "_id": "8e977e447a6bda5c6be4018b",
+        "name": "Complexity theory",
+        "catagory_id": "06",
+        "img": "https://i.ytimg.com/vi/r49Yqtrx1tU/maxresdefault.jpg",
+        "descriptions": "Complexity theory provides an understandingof how systems (such as the telecommunica-tions industry, stock markets, the internet, theeconomy, and global corporations) grow, adapt,and evolve. It explains how the relationshipsbetween members of these systems give rise tocollective behavior. For example, it describes howthe interactions between competing telecommu-nications rms gave rise to the industry-wideGSM standard. Complexity also sheds lighton how a system interacts with its environ-ment, as in the case of the interactions amongbusiness units within a global company, or therounds of negotiation and adaptation betweencorporations and regulators.Complexity theory does not need to have acomplex explanation. The principle of Occam’srazor encourages us to simplify complexity,where possible, for the study of organizationalchange. The discussion can be simplied bydelineating the difference between complicatedand complex systems. Complicated requiresattention to detail whereas complexity calls forattention to the behavior of the whole system.A complicated system, such as a thesaurus,is rich in detail. A complex system, such as amultinational organization, is rich in structure.Managers are used to dealing with problemsthat are complicated and that requires attentionto detail. Getting the task done is the primaryobjective, whether they are running a depart-ment, an IT system or a multinational company.Problems are broken down into constituentparts. Experts are engaged to solve each partwithin a management hierarchy. This approachis challenged when applied to problems thatare complex, such as managing the growth ofa fast-moving technology company. The ruleskeep shifting with changes in corporate andeconomic environments, and the organizationkeeps reorganizing itself to handle such shifts.An action on one part of the problem affectsthe behavior of another part and the companyevolves into a complex web of interactions andactivities that shift and adapt according to thesituation at hand. At this point, the organizationmoves from a complicated mode of handlingday-to-day matters to a more complex mode ofoperation. It evolves and adapts with its internalsystems (such as different divisions) and itsexternal environments (such as economic,technological, and market environments)."
+    }
+]

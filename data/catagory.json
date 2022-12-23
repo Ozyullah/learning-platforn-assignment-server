@@ -1,0 +1,30 @@
+[
+    {
+        "id": "01",
+        "name": "Discrete Mathmatics"
+    },
+    {
+        "id": "02",
+        "name": "Data structure"
+    },
+    {
+        "id": "03",
+        "name": "Database"
+    },
+    {
+        "id": "04",
+        "name": "Algorithm"
+    },
+    {
+        "id": "05",
+        "name": "Object Oriented Programing"
+    },
+    {
+        "id": "06",
+        "name": "Theory of Computation"
+    },
+    {
+        "id": "07",
+        "name": "All Courses"
+    }
+]
