@@ -24,21 +24,21 @@
         "_id": "639eb1601ec349bb140492a5",
         "name": "Propositional Logic",
         "catagory_id": "01",
-        "img": "https://i.ytimg.com/vi/Ib5njCwNMdk/maxresdefault.jpg",
+        "img": "https://mechomotive.com/wp-content/uploads/2021/07/1_1CziRAeRnF4UsCrhryH9yw-e1625122807237.png",
         "descriptions": "A proposition is a collection of declarative statements that has either a truth value true or a truth value false. A propositional consists of propositional variables and connectives. We denote the propositional variables by capital letters (A, B, etc). The connectives connect the propositional variables."
     },
     {
         "_id": "639eb16032d013e5a18dce5f",
         "name": "Predicate Logic",
         "catagory_id": "01",
-        "img": "https://slideplayer.com/3/782027/big_thumb.jpg",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Predicate_logic%3B_3_variables%3B_some_implications%3B_hex_diag_3.png/1200px-Predicate_logic%3B_3_variables%3B_some_implications%3B_hex_diag_3.png",
         "descriptions": "A predicate is an expression of one or more variables defined on some specific domain. A predicate with variables can be made a proposition by either assigning a value to the variable or by quantifying the variable."
     },
     {
         "_id": "639eb160d532e7844346e14e",
         "name": "Rules of Inference",
         "catagory_id": "01",
-        "img": "https://img.youtube.com/vi/z205Y7D40Lk/0.jpg",
+        "img": "https://sp-uploads.s3.amazonaws.com/uploads/services/2123866/20210919091741_6147003590d07_rules_of_inference_notes_pdfpage1.png",
         "descriptions": "Mathematical logic is often used for logical proofs. Proofs are valid arguments that determine the truth values of mathematical statements.An argument is a sequence of statements. The last statement is the conclusion and all its preceding statements are called premises (or hypothesis). The symbol “∴”, (read therefore) is placed before the conclusion. A valid argument is one where the conclusion follows from the truth values of the premises.Rules of Inference provide the templates or guidelines for constructing valid arguments from the statements that we already have."
     },
     {
