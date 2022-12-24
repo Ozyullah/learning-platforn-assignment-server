@@ -1,0 +1,32 @@
+[
+    {
+        "id": "63a6a650c694629af47576d0",
+        "name": "Discrete Mathmatics",
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20220504172515/Discrete-Mathematics-Tutorial.jpg"
+    },
+    {
+        "id": "63a6a650c7462a341759ebc5",
+        "name": "Data structure",
+        "img": "https://miro.medium.com/max/1400/1*2rKGJ6h1regwmfMcty3SLw.png"
+    },
+    {
+        "id": "63a6a650bca78350d6e44f7e",
+        "name": "Database",
+        "img": "https://soaringeagle.biz/wp-content/uploads/2019/09/database-2394312_1280.jpg"
+    },
+    {
+        "id": "63a6a650d26ade165ded32f5",
+        "name": "Algorithm",
+        "img": "https://pandorafms.com/blog/wp-content/uploads/2018/05/what-is-an-algorithm-featured.png"
+    },
+    {
+        "id": "63a6a6508c7cbcc5850cc9a1",
+        "name": "Object Oriented Programing",
+        "img": "https://miro.medium.com/max/600/0*7zMicw-FfThCbN35.png"
+    },
+    {
+        "id": "63a6a650ba979e17fcfc64c8",
+        "name": "Theory of Computation",
+        "img": "https://researcherstore.com/wp-content/uploads/2021/07/TOC-%D8%AA%D8%AE%D8%B5%D9%8A%D8%B5.png"
+    }
+]

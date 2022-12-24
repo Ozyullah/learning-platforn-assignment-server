@@ -9,6 +9,12 @@ const catagory =require('./data/catagory.json')
 
 const courses =require('./data/courses.json')
 
+const titles =require('./data/tittles.json')
+
+app.get('/tittles',(req, res)=>{
+    res.send(titles)
+})
+
 app.get('/catagory', (req,res) =>{
     res.send(catagory)
 })
