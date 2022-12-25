@@ -11,6 +11,8 @@ const courses =require('./data/courses.json')
 
 const titles =require('./data/tittles.json')
 
+const premium =require('./data/premium.json')
+
 app.get('/tittles',(req, res)=>{
     res.send(titles)
 })
@@ -41,6 +43,15 @@ app.get('/courses/:id', (req, res)=>{
     res.send(coursesAlbum);
 })
 
+
+app.get('/premium', (req, res)=>{
+    res.send(premium)
+})
+app.get('/premium/:id', (req, res)=>{
+    const id =req.params.id;
+    const meed =courses.find(kudo=>kudo._id === id)
+    res.send(meed)
+})
 
 app.listen(port, ()=>{
 console.log(`learnin platform started with port:${port}`)
